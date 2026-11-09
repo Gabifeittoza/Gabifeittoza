@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ <br><br>Olá! 👋<br> Meu nome é Gabrielle, tenho 28 anos e sou formada em Design Digital com foco em UX, além de estudante de Front-end e UI/UX. Estou fazendo pós graduação em Analise e Desenvolvimento de Sistemas<br><br>Sou apaixonada por criar interfaces intuitivas, acessíveis e centradas no usuário, unindo design e tecnologia para transformar ideias em experiências digitais funcionais. Atualmente, estou desenvolvendo projetos práticos para fortalecer minhas habilidades em desenvolvimento front-end e design de interfaces.<br><br>Nas horas vagas, gosto de ler, estar em contato com animais e aproveitar a praia, que me inspira criatividade e equilíbrio.
+✨ <br><br>Olá! 👋<br> Meu nome é Gabrielle, tenho 28 anos e sou formada em Design Digital com foco em UX, além de estudante de Front-end e UI/UX. <br> Sou apaixonada por criar interfaces intuitivas, acessíveis e centradas no usuário, unindo design e tecnologia para transformar ideias em experiências digitais funcionais. Atualmente, estou desenvolvendo projetos práticos para fortalecer minhas habilidades em desenvolvimento front-end e design de interfaces.<br><br>Nas horas vagas, gosto de ler, estar em contato com animais e aproveitar a praia, que me inspira criatividade e equilíbrio.
 
 
 ## 🌐 Socials:
